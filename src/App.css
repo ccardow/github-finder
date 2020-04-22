@@ -413,3 +413,8 @@ table th {
     justify-content: center;
   }
 }
+
+/* custom colors */
+.custom-card li > strong {
+  color: var(--primary-color);
+}
